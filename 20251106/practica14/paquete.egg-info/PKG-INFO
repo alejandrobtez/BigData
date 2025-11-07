@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: paquete
+Version: 0.1
+Summary: Este es un paquete de ejemplo
+Home-page: http://www.mrnobody.net
+Author: Mister Nobody
+Author-email: nobody@empty.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: summary
